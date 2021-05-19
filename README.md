@@ -1,3 +1,8 @@
+# React App Server Side Render #2
+May 18, 2021
+
+Please refer to this [article](https://www.digitalocean.com/community/tutorials/react-server-side-rendering)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
