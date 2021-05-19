@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 // import './index.css';
-import App from './App';
+import { App2 } from './App';
 // import reportWebVitals from './reportWebVitals';
 
 // ReactDOM.render(
@@ -16,4 +16,4 @@ import App from './App';
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 // reportWebVitals();
 
-ReactDOM.hydrate(<App />, document.getElementById('root'));
+ReactDOM.hydrate(<App2 />, document.getElementById('root'));

@@ -21,10 +21,15 @@
 //     </div>
 //   );
 // }
+import React from 'react';
 import Home from './Home';
 
 const App = () => {
   return <Home name="Sammy" />;
 };
+
+export const App2 = () => {
+  return <div>Hi!</div>
+}
 
 export default App;
